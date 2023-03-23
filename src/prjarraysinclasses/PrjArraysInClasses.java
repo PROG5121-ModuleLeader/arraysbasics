@@ -20,7 +20,7 @@ public class PrjArraysInClasses {
     public static void main(String[] args) 
     {     
         
-        
+        //added new comment
         System.out.println("Welcome to the new system");
         
         Boolean bControl = false;
